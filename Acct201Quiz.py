@@ -45,21 +45,21 @@ questions = [
       "options": ["400", "500", "560", "360"],
        "answer": "360"
     },
-    {
-      "question":"Pasta Disasta, Inc. is preparing its master budget for its first quarter of business. It expects to sell 1,000 pizzas per month. It will purchase enough pizzas so that 100 pizzas are in inventory at all times by purchasing 1,100 pizzas in the first month and 1,000 pizzas in the second and third months. The pizza is expected to cost $3 per pizza. It expects to pay 70% in the month of purchase and the remainder in the following month. Calculate the amount of accounts payable on its budgeted balance at the end of the quarter."
-      "options": ["1000", "900", "800", "700"],
-      "answer": "900"
+   {
+        "question": "Pasta Disasta, Inc. is preparing its master budget for its first quarter of business. It expects to sell 1,000 pizzas per month. It will purchase enough pizzas so that 100 pizzas are in inventory at all times by purchasing 1,100 pizzas in the first month and 1,000 pizzas in the second and third months. The pizza is expected to cost $3 per pizza. It expects to pay 70% in the month of purchase and the remainder in the following month. Calculate the amount of accounts payable on its budgeted balance at the end of the quarter.",
+        "options": ["1000", "900", "800", "700"],
+        "answer": "900"
     },
     {
-      "question":"Dolittle and Dalley has $4,000 in purchases for January and $5,000 in purchases for February. It expects to pay 70% of its purchases in the month the purchases are made. The remaining amount will be paid in the following month. How much does Dolittle and Dalley include as cash paid for inventory in February?"
-      "options": ["5000", "4700", "4500", "4250"],
-      "answer": "4700"
+        "question": "Dolittle and Dalley has $4,000 in purchases for January and $5,000 in purchases for February. It expects to pay 70% of its purchases in the month the purchases are made. The remaining amount will be paid in the following month. How much does Dolittle and Dalley include as cash paid for inventory in February?",
+        "options": ["5000", "4700", "4500", "4250"],
+        "answer": "4700"
     },
     {
-      "question": "Pasta Disasta, Inc. is preparing its master budget for its first month of business. It expects to sell 4,000 pizzas per month. It will purchase enough pizzas so that 100 pizzas are in inventory at all times. The pizza is expected to cost $4 per pizza. It expects to pay 70% in the month of purchase and the remainder in the following month. Calculate the amount of budgeted purchases for its first month."
-      "options" : ["17,000", "16,500", "16,400", "16,300"],
-      "answer" : "16,400"
-  }
+        "question": "Pasta Disasta, Inc. is preparing its master budget for its first month of business. It expects to sell 4,000 pizzas per month. It will purchase enough pizzas so that 100 pizzas are in inventory at all times. The pizza is expected to cost $4 per pizza. It expects to pay 70% in the month of purchase and the remainder in the following month. Calculate the amount of budgeted purchases for its first month.",
+        "options": ["17,000", "16,500", "16,400", "16,300"],
+        "answer": "16,400"
+    }
 ]
 
 score = 0
